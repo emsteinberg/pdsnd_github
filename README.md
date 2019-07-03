@@ -1,15 +1,14 @@
 ### Date created
-Include the date you created this project and README file.
+20190703
 
 ### Project Title
-Replace the Project Title
+pdsnd_github
 
 ### Description
-Describe what your project is about and what it does
+Second attempt at udacity's project because the first one wasn't good
 
 ### Files used
-Include the files used
+".gitignore", "bike_wip09.py", "README.md"
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+octabletuster, udacity
