@@ -15,3 +15,4 @@ octabletuster, udacity
 
 ### Outline section 3 question b
 Adding this section as first change of question 3b
+Adding this line as second change of question 3b
