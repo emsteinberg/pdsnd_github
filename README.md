@@ -12,3 +12,6 @@ Second attempt at udacity's project because the first one wasn't good
 
 ### Credits
 octabletuster, udacity
+
+### Outline section 3 question b
+Adding this section as first change of question 3b
