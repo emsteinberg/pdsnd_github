@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 
 # adding this comment for refactoring question 4 first change
+# adding this comment for refactoring question 4 second change
 
 CITY_DATA = {'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
